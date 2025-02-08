@@ -32,95 +32,95 @@
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.8.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:a32d48d6aa8d1e4b3006ce35574db0167d280989b4db008db7be0ccc56b14c1e: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.9.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.9.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.10.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:ea523f9ec084a6049d1b877c5ef35f66095ec0fc867e4f924d5d3bbf3d0925c0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.2.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.2.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.4.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:76a949a84e7b085e828769ef838c218e03d7d4bf10cc3b6a27f515658a590907: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:619e8d6540b4f5f64c68b1b9f120a3b79db4f40d3c1b6436e24f5dd8ff864e60: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.7.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.7.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.10.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:396590b1495fde8b1293e6f9fcd124790c92a1393969962a84202b87011a0dc1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.1.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.1.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.1.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:d62ca8c2759074e0ed8128f8b2e9dcc5eeb6ea4dbee0118db856cfb9d2295005: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.3.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:f09f3c2e62456be3cfd440812f98c5e26aa1279db86854ab38de9acbd3c44092: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.4.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.4.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.0-beta.30 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:ac23649c8d5b50320562b709af252530e63f8a57a6975592655e7ac85e602943: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.3.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.3.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.5.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:c25175b8be9ca30f086243303e4c6af59dc439df0b8e77baf89ed1b148e03287: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.0-beta.29 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.0.0-beta.29: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.2.2 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:34f51458874b6e0193c6927c24661e14039efa519ee73a69bdebeeeb379d95e1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.10.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.10.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.3.2 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:fdd00353dd3957b147e81611ddec75e3ec2ede7b8dc2458ed8c392f6e0344a0c: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.8.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.8.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.2 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:b2c4c48b43f3ce386dba9e85359f3f79621d03a9edd1d5307915e752f6461be5: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.2.2 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.2.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.3.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:ab9278832da77473685ee84fda9c191c8f577c0ed0a71a5ce5e31c6adc24dc12: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.2.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.2.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.9.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:5cef0b919e40513dc1e1f978411a777d8572be8db6c9bb9b59840ef77562083e: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.6.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.6.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.4.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:a67167407b51105a3dcd6c98ac1f0e64502b239b274f918891757c786a1c8aee: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.0-beta.30 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.0.0-beta.30: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:e97b0f36256879af42d722eb247a15b13c1fc09bdc9f842e2863b083d97e6746: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.5.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.5.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.6.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:ade18f9f9671a4160f8eb0d8b0d4225592fef6f39c8c5213fd4cb965bf93a402: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.7.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/1.7.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.1.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:d8b78ce222083ec103546075462c1cdfd9a5b2e87ec2a8668329d5925bf718ed: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.10.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.10.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.2.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:6763f93125b653d6759649ca926582c98d2d240a026e213b1011ce61e5900e37: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.1.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.1.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.7.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:8400071bc525d1ea47e5d0ba9408c6f9fc0edefe8450f6057423a1069616d099: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.3.1 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.3.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.0-beta.29 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:d4b6c7c679381983d466a7a747b8dd62b54e70c58e57ef038ba22aad4253ecc2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.2 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.2.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:ec8570f9161c9893b610b170320becf31aed843ef13677dc28b57585d0af5d72: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.3.2 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.3.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.7.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/sha256:c7ae43fc5b4d49970f6727842a1fead3c448e474ddfe5a02fc8805ff9861579b: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.4.0 for extension bluerobotics.cockpit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/cockpit/manifests/v1.4.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             }
         ],
@@ -142,16 +142,16 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.1.0 for extension bluerobotics.jupyter",
-                "status": "INFO"
+                "message": "Failed to generate version 0.1.0 for extension bluerobotics.jupyter, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-jupyter/manifests/0.1.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.2.0 for extension bluerobotics.jupyter",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.0 for extension bluerobotics.jupyter, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-jupyter/manifests/0.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.0.0 for extension bluerobotics.jupyter",
-                "status": "INFO"
+                "message": "Failed to generate version 0.2.0 for extension bluerobotics.jupyter, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-jupyter/manifests/0.2.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "bluerobotics.navigator-webassistant": [
@@ -168,8 +168,8 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.0.0 for extension bluerobotics.navigator-webassistant",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.0 for extension bluerobotics.navigator-webassistant, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/raulelektron/blueos_navigator_webassistant/manifests/0.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "bluerobotics.node-red": [
@@ -186,24 +186,24 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.1.0 for extension bluerobotics.node-red",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.3 for extension bluerobotics.node-red, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-node-red/manifests/1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.3 for extension bluerobotics.node-red",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.1 for extension bluerobotics.node-red, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-node-red/manifests/1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.0 for extension bluerobotics.node-red",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.0 for extension bluerobotics.node-red, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-node-red/manifests/1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.2 for extension bluerobotics.node-red",
-                "status": "INFO"
+                "message": "Failed to generate version 1.1.0 for extension bluerobotics.node-red, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-node-red/manifests/1.1.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.1 for extension bluerobotics.node-red",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.2 for extension bluerobotics.node-red, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-node-red/manifests/1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "bluerobotics.openvscode": [
@@ -220,47 +220,47 @@
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.1.1 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:36249d2e485389d1a2cc2470160a2452236bba9684a1050f9a1a83bda032579e: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.0.5 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.0.5: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.0.1 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:dee5ee2a9c888be36172b674b9284a9434147874af39ca6680c017de0dfa8610: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.0.6 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.0.6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.0.0 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:fafa0fa8ef1e93fc13f8db0da55157fc95303a4b5c2bccd00cf670aaae8b5d3e: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.0.3 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.0.2 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:933474f7fb3e1223b29b1fd6c1b382d8ca40635e2513d322fed6d052f2c2a8f1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.1.0 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.1.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.1.0 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:c4bfff1256818710af76d7b9ca2cfff8d98f2edcacf745c2b460a5166d822ece: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.0.2 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.0.3 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:5647c270f0f05c688748e58912aa139e1d82b8801ccf23b4997631e13f89abe9: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.0.7 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.0.7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.0.4 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:de3c0417bb5f8ff88cefc38e78d8706116d8ae9726c2ab4262af5a7580e7567c: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.0.4 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.0.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.0.6 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:a917f9dc8ea4b6c8c55d2d740d28e034ee0e83e46422a8bb6a40e9fe8b8b5af6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.0.0 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.1.2 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:6c4f9d55d5a55b557d473ad47b08493e56be4801d44744a151598505a80f2d38: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.1.2 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.1.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.0.7 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:b145ec2696af559d0df0ef81cd3428627332bcc3bab0f6a531b668a4fac63be7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.1.1 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.1.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.0.5 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/sha256:fca3d0af07145c5a4b15ed014f9e7db84d2f358b4d22716cf0fda8d31cbc479b: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.0.1 for extension bluerobotics.openvscode, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-openvscode/manifests/1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             }
         ],
@@ -278,8 +278,8 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension bluerobotics.power-switch-calibration",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension bluerobotics.power-switch-calibration, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/rjehangir/blueos-ps-calibration/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "bluerobotics.ros": [
@@ -296,12 +296,12 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.0.1 for extension bluerobotics.ros",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.2 for extension bluerobotics.ros, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-ros/manifests/0.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.0.2 for extension bluerobotics.ros",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.1 for extension bluerobotics.ros, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-ros/manifests/0.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "bluerobotics.water-linked-dvl": [
@@ -326,36 +326,36 @@
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.6 for extension bluerobotics.water-linked-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/blueos-water-linked-dvl/manifests/sha256:5c4cc57ab14bbc3c32fc83aefad9f4ef6ab244411b1f80c4511fd6f70535fb48: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.5 for extension bluerobotics.water-linked-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/blueos-water-linked-dvl/manifests/v1.0.5: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.3 for extension bluerobotics.water-linked-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/blueos-water-linked-dvl/manifests/sha256:18c4bf17906b278c44e840b40f8561928283ea151f48958ef42dd8ee0d95eb48: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.2 for extension bluerobotics.water-linked-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/blueos-water-linked-dvl/manifests/v1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.4 for extension bluerobotics.water-linked-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.4 for extension bluerobotics.water-linked-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/blueos-water-linked-dvl/manifests/v1.0.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension bluerobotics.water-linked-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.6 for extension bluerobotics.water-linked-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/blueos-water-linked-dvl/manifests/v1.0.6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.2 for extension bluerobotics.water-linked-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.3 for extension bluerobotics.water-linked-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/blueos-water-linked-dvl/manifests/v1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension bluerobotics.water-linked-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension bluerobotics.water-linked-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/blueos-water-linked-dvl/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.7 for extension bluerobotics.water-linked-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension bluerobotics.water-linked-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/blueos-water-linked-dvl/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.5 for extension bluerobotics.water-linked-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.7 for extension bluerobotics.water-linked-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/bluerobotics/blueos-water-linked-dvl/manifests/v1.0.7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "bluerobotics.yacht": [
@@ -368,8 +368,8 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 1.0.0 for extension bluerobotics.yacht",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.0 for extension bluerobotics.yacht, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-yacht/manifests/1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "ceruleansonar.cerulean-docs": [
@@ -390,12 +390,12 @@
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.1.0 for extension ceruleansonar.cerulean-docs, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-docs/manifests/sha256:bb85774c6ced6dae9b9b75cc66a3c0f2aeb20c61b5cb5ad37e393f688c93e843: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.0 for extension ceruleansonar.cerulean-docs, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-docs/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension ceruleansonar.cerulean-docs",
-                "status": "INFO"
+                "message": "Failed to generate version v1.1.0 for extension ceruleansonar.cerulean-docs, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-docs/manifests/v1.1.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "ceruleansonar.cerulean-dvl": [
@@ -416,32 +416,32 @@
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.1 for extension ceruleansonar.cerulean-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-dvl/manifests/sha256:11543c36b10be611293248778bc7b924eea38b7bfa47f39701c1b72d3b9a288f: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.8 for extension ceruleansonar.cerulean-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-dvl/manifests/v1.0.8: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.2 for extension ceruleansonar.cerulean-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-dvl/manifests/sha256:19f8215cae9fa37e89c9e8596ec2010d520430d46bf3fb93d58ed7f6e7745fac: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.7 for extension ceruleansonar.cerulean-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-dvl/manifests/v1.0.7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.5 for extension ceruleansonar.cerulean-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.4 for extension ceruleansonar.cerulean-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-dvl/manifests/v1.0.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.8 for extension ceruleansonar.cerulean-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension ceruleansonar.cerulean-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-dvl/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.6 for extension ceruleansonar.cerulean-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.6 for extension ceruleansonar.cerulean-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-dvl/manifests/v1.0.6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.7 for extension ceruleansonar.cerulean-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.5 for extension ceruleansonar.cerulean-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-dvl/manifests/v1.0.5: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.4 for extension ceruleansonar.cerulean-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.2 for extension ceruleansonar.cerulean-dvl, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/blueos-cerulean-dvl/manifests/v1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "ceruleansonar.sonarview": [
@@ -462,100 +462,100 @@
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.10.0-beta.10 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/sha256:aed2ec3f11c34455849d7df0202ad696e142cccf4f3cac6bf46c4e9ae781e0eb: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.10.2-beta for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.10.2-beta: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.9.8 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/sha256:835ef36209e513f79662b5647c49db8956a7d294e3b0fac7a1fb351d68296e29: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.11.3 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.11.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.10.0-beta.1 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/sha256:85161c073ce12e2097dda21e71e5802b274c470d939ef8ae2a09fd09f0ef2b7c: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.11.4 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.11.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.10.2-beta.3 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/sha256:6197170208f4a67016af98439f22059cace4018fd2023d35759465f84a3123e4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.13.1-beta for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.13.1-beta: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.9.5-beta for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/sha256:8f6fdf5689bd6e15caa423d91a9477f0999d675e819cab0cd564e852f389c42c: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.10.2-beta.3 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.10.2-beta.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.10.0-beta.12 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/sha256:fdeb4a8e8dd78ac86f12da10ce85bbe34620cdec12f76d7b48e938a57f05cda9: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.11.1 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.11.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.8.9 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/sha256:a21de0655ed73d40b7415f5e85bd727d709c9517d9960b10e2d4e5dee49624e9: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.10.0-beta.12 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.10.0-beta.12: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version 1.9.4-beta for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/sha256:17d9369e7c34fb414a82255909e9557e5dba0163cf8e26c7292b37237d521c9e: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version 1.9.12-beta.8 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.9.12-beta.8: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.9.12-beta.7 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.11.6 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.11.6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.11.6 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.10.0-beta.10 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.10.0-beta.10: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.10.0-beta.5 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.9.12-beta.9 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.9.12-beta.9: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.11.1 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.9.7 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.9.7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.9.7 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.9.10-beta for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.9.10-beta: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.10.0-beta.11 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.9.4-beta for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.9.4-beta: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.9.12-beta.9 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.9.8 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.9.8: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.13.1-beta for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.9.5-beta for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.9.5-beta: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.10.2-beta for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.9.12-beta.7 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.9.12-beta.7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.10.0-beta.4 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.10.0-beta.1 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.10.0-beta.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.9.12 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.9.12 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.9.12: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.11.3 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.8.9 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.8.9: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.10.0 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.10.0-beta.4 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.10.0-beta.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.9.12-beta.8 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.10.0-beta.5 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.10.0-beta.5: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.9.10-beta for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.10.0 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.10.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.11.4 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.10.0-beta.11 for extension ceruleansonar.sonarview, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nicknothom/sonarview/manifests/1.10.0-beta.11: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "clydemcqueen.surftrak_fixit": [
@@ -568,11 +568,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Failed to generate version v1.0.0-beta.2 for extension clydemcqueen.surftrak_fixit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/surftrak_fixit/manifests/sha256:7974dbabcfbe92c237617c431b666fc24732cf9fd3c5423f069ec752c20aa827: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.0-beta.1 for extension clydemcqueen.surftrak_fixit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/surftrak_fixit/manifests/v1.0.0-beta.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.0-beta.1 for extension clydemcqueen.surftrak_fixit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/surftrak_fixit/manifests/sha256:9cf0c02c92ef84c1964878116dd349fb923c0e220abb7a0a86583e6672213b73: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.0-beta.2 for extension clydemcqueen.surftrak_fixit, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/surftrak_fixit/manifests/v1.0.0-beta.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             }
         ],
@@ -586,19 +586,19 @@
                 "status": "INFO"
             },
             {
-                "message": "Failed to generate version v1.0.3 for extension clydemcqueen.wl_ugps_external, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/wl_ugps_external_extension/manifests/sha256:2adff8e939478262b0cc0b35ee93d79f6a6d876902a10350e3ce93d7c7403dfe: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.3 for extension clydemcqueen.wl_ugps_external, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/wl_ugps_external_extension/manifests/v1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.1.0-beta.1 for extension clydemcqueen.wl_ugps_external, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/wl_ugps_external_extension/manifests/sha256:cd6803b56aeea2f0db28c744b3ca92a5325c7f27d367d3d348ec585926bfd3f1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.1.0-beta.1 for extension clydemcqueen.wl_ugps_external, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/wl_ugps_external_extension/manifests/v1.1.0-beta.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.1 for extension clydemcqueen.wl_ugps_external, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/wl_ugps_external_extension/manifests/sha256:e0fab510697080cd9c972e1eeb987371fc49f11d64384574a1c80fd72da5c3a6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.2 for extension clydemcqueen.wl_ugps_external, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/wl_ugps_external_extension/manifests/v1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.2 for extension clydemcqueen.wl_ugps_external, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/wl_ugps_external_extension/manifests/sha256:54e2275c5e9ea7aef7df80d3ace428f9ef287e9cd249ca6a70c22108a0ebfe9f: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.1 for extension clydemcqueen.wl_ugps_external, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/clydemcqueen/wl_ugps_external_extension/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             }
         ],
@@ -616,8 +616,8 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v0.4.2-beta for extension deepwaterexploration.dwe_os_2",
-                "status": "INFO"
+                "message": "Failed to generate version v0.4.2-blueos for extension deepwaterexploration.dwe_os_2, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/deepwaterexploration/dwe_os_2/manifests/v0.4.2-blueos: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "jmrobotics.jm-connect": [
@@ -634,156 +634,80 @@
                 "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
+                "message": "Failed to generate version 0.0.2 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.1.9 for extension jmrobotics.jm-connect",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.5 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.0.5: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
+                "message": "Failed to generate version 0.0.8 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.0.8: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.1.0 for extension jmrobotics.jm-connect",
-                "status": "INFO"
+                "message": "Failed to generate version 0.1.9 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.1.9: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
+                "message": "Failed to generate version 0.1.3 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.1.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.1.8 for extension jmrobotics.jm-connect",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.6 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.0.6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
+                "message": "Failed to generate version 0.0.3 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.0.8 for extension jmrobotics.jm-connect",
-                "status": "INFO"
+                "message": "Failed to generate version 0.1.0 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.1.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
+                "message": "Failed to generate version 0.1.4 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.1.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.1.4 for extension jmrobotics.jm-connect",
-                "status": "INFO"
+                "message": "Failed to generate version 0.1.7 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.1.7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
+                "message": "Failed to generate version 0.1.2 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.1.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.1.2 for extension jmrobotics.jm-connect",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.4 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.0.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
+                "message": "Failed to generate version 0.1.6 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.1.6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.1.7 for extension jmrobotics.jm-connect",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.1 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
+                "message": "Failed to generate version 0.0.9 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.0.9: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.0.9 for extension jmrobotics.jm-connect",
-                "status": "INFO"
+                "message": "Failed to generate version 0.1.5 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.1.5: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
+                "message": "Failed to generate version 0.1.1 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.1.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.1.3 for extension jmrobotics.jm-connect",
-                "status": "INFO"
+                "message": "Failed to generate version 0.1.8 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.1.8: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.1 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.5 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.6 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.5 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.1 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.2 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.6 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.3 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.4 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.7 for extension jmrobotics.jm-connect",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.7 for extension jmrobotics.jm-connect, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/maphstra/jm-connect-blueos/manifests/0.0.7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "nortekgroup.nucleus": [
@@ -804,40 +728,40 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.0.8 for extension nortekgroup.nucleus",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.4 for extension nortekgroup.nucleus, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nortekgroup/blueos_nucleus/manifests/1.0.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.2.0 for extension nortekgroup.nucleus",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.1 for extension nortekgroup.nucleus, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nortekgroup/blueos_nucleus/manifests/1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.4 for extension nortekgroup.nucleus",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.2 for extension nortekgroup.nucleus, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nortekgroup/blueos_nucleus/manifests/1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.0.7 for extension nortekgroup.nucleus",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.7 for extension nortekgroup.nucleus, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nortekgroup/blueos_nucleus/manifests/0.0.7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.1.0 for extension nortekgroup.nucleus",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.0 for extension nortekgroup.nucleus, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nortekgroup/blueos_nucleus/manifests/1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.1 for extension nortekgroup.nucleus",
-                "status": "INFO"
+                "message": "Failed to generate version 1.2.0 for extension nortekgroup.nucleus, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nortekgroup/blueos_nucleus/manifests/1.2.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 0.0.6 for extension nortekgroup.nucleus",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.8 for extension nortekgroup.nucleus, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nortekgroup/blueos_nucleus/manifests/0.0.8: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.0 for extension nortekgroup.nucleus",
-                "status": "INFO"
+                "message": "Failed to generate version 1.1.0 for extension nortekgroup.nucleus, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nortekgroup/blueos_nucleus/manifests/1.1.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.2 for extension nortekgroup.nucleus",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.6 for extension nortekgroup.nucleus, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/nortekgroup/blueos_nucleus/manifests/0.0.6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "patrickelectric.starlink-position": [
@@ -858,28 +782,24 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.1 for extension patrickelectric.starlink-position",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.4 for extension patrickelectric.starlink-position, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-starlink-position/manifests/1.0.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.2 for extension patrickelectric.starlink-position",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.1 for extension patrickelectric.starlink-position, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-starlink-position/manifests/1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.3 for extension patrickelectric.starlink-position",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.3 for extension patrickelectric.starlink-position, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-starlink-position/manifests/1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme https://raw.githubusercontent.com/patrickelectric/blueos-starlink-position/1.0.0/README.md: status: 404: 404: Not Found",
-                "status": "WARNING"
+                "message": "Failed to generate version 1.0.2 for extension patrickelectric.starlink-position, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-starlink-position/manifests/1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.0 for extension patrickelectric.starlink-position",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.0.4 for extension patrickelectric.starlink-position",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.0 for extension patrickelectric.starlink-position, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/patrickelectric/blueos-starlink-position/manifests/1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "sonardyne.navsync_pro": [
@@ -896,35 +816,35 @@
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.6 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/sha256:09406e970a2bc715b3e383b396fd4b03dd6b083247168fe666b3a48b8a9ea472: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.4 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/v1.0.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.4 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/sha256:208e65a722024e93143a194a3002af2e488b0e3b74a5d2051a2db832ac7e1cb3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.6 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/v1.0.6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.2 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/sha256:41d260710ff0cdbb41f2ff5469518b8870823a069578601b9a9b0bbec475721b: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.5 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/v1.0.5: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.1 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/sha256:c363af047b2c531181ed31c09b9d5b5a971b1e16400a5bac1691de08d265064b: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.0 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.5 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/sha256:f19c446693d4f581c9c4f419572a90cdaa3ab53efd62c31e44c3227ca2168d12: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.2 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/v1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.7 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/sha256:d3bec54ccbb5c6a745b3b7f10131f9efcdbdab56871baf32e83c58ebf2ea7d94: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.7 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/v1.0.7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.0 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/sha256:4eca4dbd894c55822394eebc93cf01070157dc57d1e5b754cd01562eb42efb4a: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.3 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/v1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.3 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/sha256:78beaabd0a70d25ef5bc85157e1122421ef9f8c421f9869096e9b73e8e57eedd: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "message": "Failed to generate version v1.0.1 for extension sonardyne.navsync_pro, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/sonardyne/blueos-sprint-nav-extension/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             }
         ],
@@ -942,12 +862,12 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension vshie.pingSurvey",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension vshie.pingSurvey, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/vshie/blueos-simplepingsurvey/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension vshie.pingSurvey",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension vshie.pingSurvey, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/vshie/blueos-simplepingsurvey/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "waterlinked.ugps": [
@@ -964,28 +884,24 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.4 for extension waterlinked.ugps",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.6 for extension waterlinked.ugps, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/waterlinked/blueos-ugps-extension/manifests/v1.0.6: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme https://raw.githubusercontent.com/waterlinked/blueos-ugps-extension/v1.0.7-beta.5/readme.md: status: 404: 404: Not Found",
-                "status": "WARNING"
+                "message": "Failed to generate version v1.0.7-beta.2 for extension waterlinked.ugps, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/waterlinked/blueos-ugps-extension/manifests/v1.0.7-beta.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.7-beta.5 for extension waterlinked.ugps",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.7 for extension waterlinked.ugps, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/waterlinked/blueos-ugps-extension/manifests/v1.0.7: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.6 for extension waterlinked.ugps",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.7-beta.5 for extension waterlinked.ugps, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/waterlinked/blueos-ugps-extension/manifests/v1.0.7-beta.5: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.7-beta.2 for extension waterlinked.ugps",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.7 for extension waterlinked.ugps",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.4 for extension waterlinked.ugps, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/waterlinked/blueos-ugps-extension/manifests/v1.0.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.blueos-proxy": [
@@ -1014,32 +930,28 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
+                "message": "Failed to generate version v0.0.1 for extension williangalvani.blueos-proxy, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-proxy/manifests/v0.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme https://raw.githubusercontent.com/Williangalvani/BlueOS-examples/v0.0.1/example4-vue-backend/Readme.md: status: 404: 404: Not Found",
-                "status": "WARNING"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.blueos-proxy, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-proxy/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v0.0.1 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.4 for extension williangalvani.blueos-proxy, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-proxy/manifests/v1.0.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.3 for extension williangalvani.blueos-proxy, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-proxy/manifests/v1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.3 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension williangalvani.blueos-proxy, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-proxy/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.4 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.2 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.2 for extension williangalvani.blueos-proxy, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-proxy/manifests/v1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.example1": [
@@ -1052,12 +964,12 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.example1",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.example1, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-example1/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.example1",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension williangalvani.example1, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-example1/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.example2": [
@@ -1070,12 +982,12 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.example2",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.example2, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-example2/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.example2",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension williangalvani.example2, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-example2/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.example3": [
@@ -1088,12 +1000,12 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.example3",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.example3, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-example3/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.example3",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension williangalvani.example3, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-example3/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.example4": [
@@ -1106,12 +1018,12 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.example4",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.example4, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-example4/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.example4",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension williangalvani.example4, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-example4/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.example5": [
@@ -1124,12 +1036,12 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.example5",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.example5, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-example5/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.example5",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension williangalvani.example5, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-example5/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.network-scanner": [
@@ -1150,24 +1062,24 @@
                 "status": "ERROR"
             },
             {
-                "message": "Failed to generate version v1.0.0 for extension williangalvani.network-scanner, error: Expected one valid manifest for target embedded arch but found: 2",
+                "message": "Failed to generate version v1.0.2 for extension williangalvani.network-scanner, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-network-scanner/manifests/v1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.network-scanner",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension williangalvani.network-scanner, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-network-scanner/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.2 for extension williangalvani.network-scanner",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.network-scanner, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-network-scanner/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.3 for extension williangalvani.network-scanner",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.2 for extension williangalvani.network-scanner, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-network-scanner/manifests/1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.2 for extension williangalvani.network-scanner",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.3 for extension williangalvani.network-scanner, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-network-scanner/manifests/1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.oakd": [
@@ -1180,24 +1092,16 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.oakd",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1-heta.1 for extension williangalvani.oakd, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/oakd-extension/manifests/v1.0.1-heta.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme https://raw.githubusercontent.com/Williangalvani/Oakd-extension/v1.0.1/Readme.md: status: 404: 404: Not Found",
-                "status": "WARNING"
+                "message": "Failed to generate version v1.0.1 for extension williangalvani.oakd, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/oakd-extension/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.oakd",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme https://raw.githubusercontent.com/Williangalvani/Oakd-extension/v1.0.1-heta.1/Readme.md: status: 404: 404: Not Found",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry v1.0.1-heta.1 for extension williangalvani.oakd",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.oakd, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/oakd-extension/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.plc-diagnostics": [
@@ -1210,44 +1114,28 @@
                 "status": "INFO"
             },
             {
-                "message": "Could not get readme https://raw.githubusercontent.com/$OWNER/$REPO/v1.0.0/README.md: status: 404: 404: Not Found",
-                "status": "WARNING"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.plc-diagnostics, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-plc/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.plc-diagnostics",
-                "status": "INFO"
+                "message": "Failed to generate version 0.0.5 for extension williangalvani.plc-diagnostics, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-plc/manifests/0.0.5: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.3 for extension williangalvani.plc-diagnostics",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.2 for extension williangalvani.plc-diagnostics, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-plc/manifests/v1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme https://raw.githubusercontent.com/$OWNER/$REPO/1.0.0/README.md: status: 404: 404: Not Found",
-                "status": "WARNING"
+                "message": "Failed to generate version 1.0.0 for extension williangalvani.plc-diagnostics, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-plc/manifests/1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.0 for extension williangalvani.plc-diagnostics",
-                "status": "INFO"
+                "message": "Failed to generate version 1.0.1 for extension williangalvani.plc-diagnostics, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-plc/manifests/1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Could not get readme https://raw.githubusercontent.com/$OWNER/$REPO/1.0.1/README.md: status: 404: 404: Not Found",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 1.0.1 for extension williangalvani.plc-diagnostics",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.2 for extension williangalvani.plc-diagnostics",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme https://raw.githubusercontent.com/williangalvani/plc-extension/0.0.5/README.md: status: 404: 404: Not Found",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.5 for extension williangalvani.plc-diagnostics",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.3 for extension williangalvani.plc-diagnostics, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-plc/manifests/v1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.usbip": [
@@ -1264,20 +1152,20 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.2 for extension williangalvani.usbip",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.usbip, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-usbip/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.usbip",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.2 for extension williangalvani.usbip, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-usbip/manifests/v1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.3 for extension williangalvani.usbip",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension williangalvani.usbip, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-usbip/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.usbip",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.3 for extension williangalvani.usbip, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-usbip/manifests/v1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.virtualhere": [
@@ -1294,20 +1182,20 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.virtualhere",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.3 for extension williangalvani.virtualhere, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-virtualhere/manifests/v1.0.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.4 for extension williangalvani.virtualhere",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.4 for extension williangalvani.virtualhere, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-virtualhere/manifests/v1.0.4: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.3 for extension williangalvani.virtualhere",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.virtualhere, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-virtualhere/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.2 for extension williangalvani.virtualhere",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.2 for extension williangalvani.virtualhere, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/blueos-extension-virtualhere/manifests/v1.0.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ],
         "williangalvani.zerotier": [
@@ -1332,28 +1220,28 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.12.3 for extension williangalvani.zerotier",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.zerotier, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/zerotier/manifests/v1.0.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.12.1 for extension williangalvani.zerotier",
-                "status": "INFO"
+                "message": "Failed to generate version v1.12.1 for extension williangalvani.zerotier, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/zerotier/manifests/v1.12.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.zerotier",
-                "status": "INFO"
+                "message": "Failed to generate version v1.14.2 for extension williangalvani.zerotier, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/zerotier/manifests/v1.14.2: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.zerotier",
-                "status": "INFO"
+                "message": "Failed to generate version v1.14.0 for extension williangalvani.zerotier, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/zerotier/manifests/v1.14.0: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.14.0 for extension williangalvani.zerotier",
-                "status": "INFO"
+                "message": "Failed to generate version v1.12.3 for extension williangalvani.zerotier, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/zerotier/manifests/v1.12.3: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.14.2 for extension williangalvani.zerotier",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.1 for extension williangalvani.zerotier, error: Error on Docker Registry API with status 429 on call to https://registry-1.docker.io/v2/williangalvani/zerotier/manifests/v1.0.1: TOOMANYREQUESTS - You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit",
+                "status": "ERROR"
             }
         ]
     },
@@ -1366,7 +1254,7 @@
     "start_docker_rate_limit": {
         "interval_seconds": 21600,
         "limit": 200,
-        "remaining": 94,
+        "remaining": -8,
         "source_ip": "4d3cd125-d212-4a99-a724-a2c128907363"
     }
 }
