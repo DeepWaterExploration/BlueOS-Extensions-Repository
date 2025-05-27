@@ -36,7 +36,35 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.7.1 for extension bluerobotics.cockpit",
+                "message": "Failed to generate version v1.7.1 for extension bluerobotics.cockpit, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version v1.4.0 for extension bluerobotics.cockpit, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version v1.10.0 for extension bluerobotics.cockpit, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version v1.4.1 for extension bluerobotics.cockpit, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version v1.15.1 for extension bluerobotics.cockpit, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version v1.3.2 for extension bluerobotics.cockpit, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version v1.14.0 for extension bluerobotics.cockpit, error: [Errno 32] Broken pipe",
+                "status": "ERROR"
+            },
+            {
+                "message": "Generated version entry v1.13.0 for extension bluerobotics.cockpit",
                 "status": "INFO"
             },
             {
@@ -44,67 +72,7 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.12.2 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.10.0 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.9.0 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.12.1 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.7.0 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.11.2 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
                 "message": "Generated version entry v1.12.0 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.15.0 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.10.1 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.14.0 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.15.1 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.11.1 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.3.2 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.4.0 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.6.0 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.8.0 for extension bluerobotics.cockpit",
                 "status": "INFO"
             },
             {
@@ -112,15 +80,47 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.13.0 for extension bluerobotics.cockpit",
+                "message": "Generated version entry 1.7.0 for extension bluerobotics.cockpit",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.8.0 for extension bluerobotics.cockpit",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.9.0 for extension bluerobotics.cockpit",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.11.1 for extension bluerobotics.cockpit",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.11.2 for extension bluerobotics.cockpit",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.12.1 for extension bluerobotics.cockpit",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.6.0 for extension bluerobotics.cockpit",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.10.1 for extension bluerobotics.cockpit",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.15.0 for extension bluerobotics.cockpit",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.12.2 for extension bluerobotics.cockpit",
                 "status": "INFO"
             },
             {
                 "message": "Generated version entry v1.11.0 for extension bluerobotics.cockpit",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.4.1 for extension bluerobotics.cockpit",
                 "status": "INFO"
             }
         ],
@@ -194,15 +194,15 @@
                 "status": "INFO"
             },
             {
+                "message": "Generated version entry 1.0.2 for extension bluerobotics.node-red",
+                "status": "INFO"
+            },
+            {
                 "message": "Generated version entry 1.0.0 for extension bluerobotics.node-red",
                 "status": "INFO"
             },
             {
                 "message": "Generated version entry 1.0.3 for extension bluerobotics.node-red",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.0.2 for extension bluerobotics.node-red",
                 "status": "INFO"
             }
         ],
@@ -220,11 +220,7 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.0.0 for extension bluerobotics.openvscode",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.0.1 for extension bluerobotics.openvscode",
+                "message": "Generated version entry 1.0.4 for extension bluerobotics.openvscode",
                 "status": "INFO"
             },
             {
@@ -232,19 +228,7 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 1.0.2 for extension bluerobotics.openvscode",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.1.0 for extension bluerobotics.openvscode",
-                "status": "INFO"
-            },
-            {
                 "message": "Generated version entry 1.0.5 for extension bluerobotics.openvscode",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.1.1 for extension bluerobotics.openvscode",
                 "status": "INFO"
             },
             {
@@ -252,11 +236,27 @@
                 "status": "INFO"
             },
             {
+                "message": "Generated version entry 1.0.0 for extension bluerobotics.openvscode",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry 1.1.0 for extension bluerobotics.openvscode",
+                "status": "INFO"
+            },
+            {
                 "message": "Generated version entry 1.0.7 for extension bluerobotics.openvscode",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 1.0.4 for extension bluerobotics.openvscode",
+                "message": "Generated version entry 1.1.1 for extension bluerobotics.openvscode",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry 1.0.2 for extension bluerobotics.openvscode",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry 1.0.1 for extension bluerobotics.openvscode",
                 "status": "INFO"
             },
             {
@@ -330,19 +330,15 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.3 for extension bluerobotics.water-linked-dvl",
-                "status": "INFO"
-            },
-            {
                 "message": "Generated version entry v1.0.0 for extension bluerobotics.water-linked-dvl",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.5 for extension bluerobotics.water-linked-dvl",
+                "message": "Generated version entry v1.0.7 for extension bluerobotics.water-linked-dvl",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.4 for extension bluerobotics.water-linked-dvl",
+                "message": "Generated version entry v1.0.8 for extension bluerobotics.water-linked-dvl",
                 "status": "INFO"
             },
             {
@@ -354,15 +350,19 @@
                 "status": "INFO"
             },
             {
+                "message": "Generated version entry v1.0.3 for extension bluerobotics.water-linked-dvl",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.5 for extension bluerobotics.water-linked-dvl",
+                "status": "INFO"
+            },
+            {
                 "message": "Generated version entry v1.0.6 for extension bluerobotics.water-linked-dvl",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.7 for extension bluerobotics.water-linked-dvl",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.8 for extension bluerobotics.water-linked-dvl",
+                "message": "Generated version entry v1.0.4 for extension bluerobotics.water-linked-dvl",
                 "status": "INFO"
             }
         ],
@@ -398,11 +398,11 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension ceruleansonar.cerulean-docs",
+                "message": "Generated version entry v1.1.0 for extension ceruleansonar.cerulean-docs",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.1.0 for extension ceruleansonar.cerulean-docs",
+                "message": "Generated version entry v1.0.0 for extension ceruleansonar.cerulean-docs",
                 "status": "INFO"
             }
         ],
@@ -424,15 +424,11 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.4 for extension ceruleansonar.cerulean-dvl",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.5 for extension ceruleansonar.cerulean-dvl, error: [Errno 32] Broken pipe",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.6 for extension ceruleansonar.cerulean-dvl",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.8 for extension ceruleansonar.cerulean-dvl",
+                "message": "Generated version entry v1.0.2 for extension ceruleansonar.cerulean-dvl",
                 "status": "INFO"
             },
             {
@@ -440,15 +436,19 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.2 for extension ceruleansonar.cerulean-dvl",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.5 for extension ceruleansonar.cerulean-dvl",
-                "status": "INFO"
-            },
-            {
                 "message": "Generated version entry v1.0.7 for extension ceruleansonar.cerulean-dvl",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.4 for extension ceruleansonar.cerulean-dvl",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.8 for extension ceruleansonar.cerulean-dvl",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.6 for extension ceruleansonar.cerulean-dvl",
                 "status": "INFO"
             }
         ],
@@ -478,15 +478,67 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.13.15 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.13.10 for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.13.12 for extension ceruleansonar.sonarview",
-                "status": "INFO"
+                "message": "Failed to generate version 1.11.4 for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.13.20 for extension ceruleansonar.sonarview",
+                "message": "Failed to generate version 1.13.12 for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.10.0-beta.10 for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.13.17 for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.13.18 for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.11.6 for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.10.2-beta for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.11.1 for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.13.10-beta for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.13.9-beta for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.10.0-beta.11 for extension ceruleansonar.sonarview, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.10.0 for extension ceruleansonar.sonarview, error: [Errno 32] Broken pipe",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.10.0-beta.12 for extension ceruleansonar.sonarview, error: [Errno 32] Broken pipe",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.13.15 for extension ceruleansonar.sonarview, error: [Errno 32] Broken pipe",
+                "status": "ERROR"
+            },
+            {
+                "message": "Generated version entry 1.10.2-beta.3 for extension ceruleansonar.sonarview",
                 "status": "INFO"
             },
             {
@@ -494,27 +546,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 1.10.2-beta for extension ceruleansonar.sonarview",
+                "message": "Generated version entry 1.13.1-beta for extension ceruleansonar.sonarview",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 1.11.3 for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.13.18 for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.11.4 for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.10.0 for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.10.2-beta.3 for extension ceruleansonar.sonarview",
+                "message": "Generated version entry 1.13.20 for extension ceruleansonar.sonarview",
                 "status": "INFO"
             },
             {
@@ -522,47 +558,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 1.10.0-beta.12 for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.13.1-beta for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.13.9-beta for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.11.1 for extension ceruleansonar.sonarview",
+                "message": "Generated version entry 1.11.3 for extension ceruleansonar.sonarview",
                 "status": "INFO"
             },
             {
                 "message": "Generated version entry 1.13.16 for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.13.10 for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.10.0-beta.11 for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.10.0-beta.10 for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.13.10-beta for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.13.17 for extension ceruleansonar.sonarview",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.11.6 for extension ceruleansonar.sonarview",
                 "status": "INFO"
             }
         ],
@@ -576,11 +576,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.0-beta.2 for extension clydemcqueen.surftrak_fixit",
+                "message": "Generated version entry v1.0.0-beta.1 for extension clydemcqueen.surftrak_fixit",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.0-beta.1 for extension clydemcqueen.surftrak_fixit",
+                "message": "Generated version entry v1.0.0-beta.2 for extension clydemcqueen.surftrak_fixit",
                 "status": "INFO"
             }
         ],
@@ -594,19 +594,19 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension clydemcqueen.wl_ugps_external",
-                "status": "INFO"
-            },
-            {
                 "message": "Generated version entry v1.0.2 for extension clydemcqueen.wl_ugps_external",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.3 for extension clydemcqueen.wl_ugps_external",
+                "message": "Generated version entry v1.1.0-beta.1 for extension clydemcqueen.wl_ugps_external",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.1.0-beta.1 for extension clydemcqueen.wl_ugps_external",
+                "message": "Generated version entry v1.0.1 for extension clydemcqueen.wl_ugps_external",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.3 for extension clydemcqueen.wl_ugps_external",
                 "status": "INFO"
             }
         ],
@@ -646,126 +646,6 @@
                 "status": "ERROR"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.8 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.7 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.5 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.2 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.4 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.9 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.8 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.0 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.3 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.9 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.1 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.1.6 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.7 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.5 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 0.0.3 for extension jmrobotics.jm-connect",
-                "status": "INFO"
-            },
-            {
                 "message": "Could not get readme, expected type to be text/plain but got text/html",
                 "status": "WARNING"
             },
@@ -786,7 +666,15 @@
                 "status": "WARNING"
             },
             {
-                "message": "Generated version entry 0.0.6 for extension jmrobotics.jm-connect",
+                "message": "Generated version entry 0.0.7 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got text/html",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.0.3 for extension jmrobotics.jm-connect",
                 "status": "INFO"
             },
             {
@@ -795,6 +683,118 @@
             },
             {
                 "message": "Generated version entry 0.0.2 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got text/html",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.0.6 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.1.8 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.1.3 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.1.0 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.0.8 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.1.2 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.1.4 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got text/html",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.0.5 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.1.1 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.1.5 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.1.6 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.1.7 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.0.9 for extension jmrobotics.jm-connect",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme, expected type to be text/plain but got application/octet-stream",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 0.1.9 for extension jmrobotics.jm-connect",
                 "status": "INFO"
             }
         ],
@@ -816,7 +816,15 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry 1.1.0 for extension nortekgroup.nucleus",
+                "message": "Failed to generate version 0.0.8 for extension nortekgroup.nucleus, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Failed to generate version 1.0.2 for extension nortekgroup.nucleus, error: Cannot write to closing transport",
+                "status": "ERROR"
+            },
+            {
+                "message": "Generated version entry 0.0.7 for extension nortekgroup.nucleus",
                 "status": "INFO"
             },
             {
@@ -824,23 +832,7 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 1.0.1 for extension nortekgroup.nucleus",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 0.0.7 for extension nortekgroup.nucleus",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.0.4 for extension nortekgroup.nucleus",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.0.2 for extension nortekgroup.nucleus",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 2.0.0 for extension nortekgroup.nucleus",
+                "message": "Generated version entry 0.0.6 for extension nortekgroup.nucleus",
                 "status": "INFO"
             },
             {
@@ -848,11 +840,19 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 0.0.6 for extension nortekgroup.nucleus",
+                "message": "Generated version entry 2.0.0 for extension nortekgroup.nucleus",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 0.0.8 for extension nortekgroup.nucleus",
+                "message": "Generated version entry 1.0.1 for extension nortekgroup.nucleus",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry 1.0.4 for extension nortekgroup.nucleus",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry 1.1.0 for extension nortekgroup.nucleus",
                 "status": "INFO"
             }
         ],
@@ -878,7 +878,7 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 1.0.2 for extension patrickelectric.starlink-position",
+                "message": "Generated version entry 1.0.3 for extension patrickelectric.starlink-position",
                 "status": "INFO"
             },
             {
@@ -890,11 +890,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 1.0.1 for extension patrickelectric.starlink-position",
+                "message": "Generated version entry 1.0.2 for extension patrickelectric.starlink-position",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry 1.0.3 for extension patrickelectric.starlink-position",
+                "message": "Generated version entry 1.0.1 for extension patrickelectric.starlink-position",
                 "status": "INFO"
             }
         ],
@@ -912,12 +912,8 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.5 for extension sonardyne.navsync_pro",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.7 for extension sonardyne.navsync_pro",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension sonardyne.navsync_pro, error: Cannot write to closing transport",
+                "status": "ERROR"
             },
             {
                 "message": "Could not get readme, expected type to be text/plain but got text/html",
@@ -928,7 +924,7 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.8 for extension sonardyne.navsync_pro",
+                "message": "Generated version entry v1.0.4 for extension sonardyne.navsync_pro",
                 "status": "INFO"
             },
             {
@@ -940,15 +936,15 @@
                 "status": "INFO"
             },
             {
-                "message": "Could not get readme, expected type to be text/plain but got text/html",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry v1.0.0 for extension sonardyne.navsync_pro",
+                "message": "Generated version entry v1.0.7 for extension sonardyne.navsync_pro",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.4 for extension sonardyne.navsync_pro",
+                "message": "Generated version entry v1.0.5 for extension sonardyne.navsync_pro",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.8 for extension sonardyne.navsync_pro",
                 "status": "INFO"
             },
             {
@@ -978,15 +974,15 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension vshie.pingSurvey",
-                "status": "INFO"
-            },
-            {
                 "message": "Generated version entry v1.0.0 for extension vshie.pingSurvey",
                 "status": "INFO"
             },
             {
                 "message": "Generated version entry v1.1.0 for extension vshie.pingSurvey",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.1 for extension vshie.pingSurvey",
                 "status": "INFO"
             }
         ],
@@ -1004,15 +1000,7 @@
                 "status": "ERROR"
             },
             {
-                "message": "Could not get readme https://raw.githubusercontent.com/waterlinked/blueos-ugps-extension/v1.0.7-beta.5/readme.md: status: 404: 404: Not Found",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry v1.0.7-beta.5 for extension waterlinked.ugps",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.4 for extension waterlinked.ugps",
+                "message": "Generated version entry v1.0.6 for extension waterlinked.ugps",
                 "status": "INFO"
             },
             {
@@ -1020,7 +1008,15 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.6 for extension waterlinked.ugps",
+                "message": "Generated version entry v1.0.4 for extension waterlinked.ugps",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme https://raw.githubusercontent.com/waterlinked/blueos-ugps-extension/v1.0.7-beta.5/readme.md: status: 404: 404: Not Found",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry v1.0.7-beta.5 for extension waterlinked.ugps",
                 "status": "INFO"
             },
             {
@@ -1054,24 +1050,8 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.2 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.5 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.4 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.blueos-proxy",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.0 for extension williangalvani.blueos-proxy, error: [Errno 32] Broken pipe",
+                "status": "ERROR"
             },
             {
                 "message": "Could not get readme https://raw.githubusercontent.com/Williangalvani/BlueOS-examples/v0.0.1/example4-vue-backend/Readme.md: status: 404: 404: Not Found",
@@ -1082,7 +1062,23 @@
                 "status": "INFO"
             },
             {
+                "message": "Generated version entry v1.0.5 for extension williangalvani.blueos-proxy",
+                "status": "INFO"
+            },
+            {
                 "message": "Generated version entry v1.0.3 for extension williangalvani.blueos-proxy",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.1 for extension williangalvani.blueos-proxy",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.2 for extension williangalvani.blueos-proxy",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.4 for extension williangalvani.blueos-proxy",
                 "status": "INFO"
             }
         ],
@@ -1096,11 +1092,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.example1",
+                "message": "Generated version entry v1.0.0 for extension williangalvani.example1",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.example1",
+                "message": "Generated version entry v1.0.1 for extension williangalvani.example1",
                 "status": "INFO"
             }
         ],
@@ -1114,11 +1110,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.example2",
+                "message": "Generated version entry v1.0.0 for extension williangalvani.example2",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.example2",
+                "message": "Generated version entry v1.0.1 for extension williangalvani.example2",
                 "status": "INFO"
             }
         ],
@@ -1132,11 +1128,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.example3",
+                "message": "Generated version entry v1.0.0 for extension williangalvani.example3",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.example3",
+                "message": "Generated version entry v1.0.1 for extension williangalvani.example3",
                 "status": "INFO"
             }
         ],
@@ -1150,11 +1146,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.0 for extension williangalvani.example4",
+                "message": "Generated version entry v1.0.1 for extension williangalvani.example4",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.example4",
+                "message": "Generated version entry v1.0.0 for extension williangalvani.example4",
                 "status": "INFO"
             }
         ],
@@ -1198,19 +1194,11 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.2 for extension williangalvani.network-scanner",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.network-scanner",
-                "status": "INFO"
+                "message": "Failed to generate version v1.0.2 for extension williangalvani.network-scanner, error: Cannot write to closing transport",
+                "status": "ERROR"
             },
             {
                 "message": "Generated version entry 1.0.3 for extension williangalvani.network-scanner",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry 1.0.2 for extension williangalvani.network-scanner",
                 "status": "INFO"
             },
             {
@@ -1219,6 +1207,14 @@
             },
             {
                 "message": "Generated version entry v1.0.4 for extension williangalvani.network-scanner",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry 1.0.2 for extension williangalvani.network-scanner",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.1 for extension williangalvani.network-scanner",
                 "status": "INFO"
             }
         ],
@@ -1262,11 +1258,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Could not get readme https://raw.githubusercontent.com/$OWNER/$REPO/1.0.0/README.md: status: 404: 404: Not Found",
+                "message": "Could not get readme https://raw.githubusercontent.com/$OWNER/$REPO/1.0.1/README.md: status: 404: 404: Not Found",
                 "status": "WARNING"
             },
             {
-                "message": "Generated version entry 1.0.0 for extension williangalvani.plc-diagnostics",
+                "message": "Generated version entry 1.0.1 for extension williangalvani.plc-diagnostics",
                 "status": "INFO"
             },
             {
@@ -1278,19 +1274,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.3 for extension williangalvani.plc-diagnostics",
-                "status": "INFO"
-            },
-            {
                 "message": "Generated version entry v1.0.2 for extension williangalvani.plc-diagnostics",
                 "status": "INFO"
             },
             {
-                "message": "Could not get readme https://raw.githubusercontent.com/$OWNER/$REPO/1.0.1/README.md: status: 404: 404: Not Found",
-                "status": "WARNING"
-            },
-            {
-                "message": "Generated version entry 1.0.1 for extension williangalvani.plc-diagnostics",
+                "message": "Generated version entry v1.0.3 for extension williangalvani.plc-diagnostics",
                 "status": "INFO"
             },
             {
@@ -1299,6 +1287,14 @@
             },
             {
                 "message": "Generated version entry v1.0.0 for extension williangalvani.plc-diagnostics",
+                "status": "INFO"
+            },
+            {
+                "message": "Could not get readme https://raw.githubusercontent.com/$OWNER/$REPO/1.0.0/README.md: status: 404: 404: Not Found",
+                "status": "WARNING"
+            },
+            {
+                "message": "Generated version entry 1.0.0 for extension williangalvani.plc-diagnostics",
                 "status": "INFO"
             }
         ],
@@ -1316,7 +1312,7 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.usbip",
+                "message": "Generated version entry v1.0.2 for extension williangalvani.usbip",
                 "status": "INFO"
             },
             {
@@ -1324,7 +1320,7 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.2 for extension williangalvani.usbip",
+                "message": "Generated version entry v1.0.1 for extension williangalvani.usbip",
                 "status": "INFO"
             },
             {
@@ -1346,19 +1342,19 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.3 for extension williangalvani.virtualhere",
-                "status": "INFO"
-            },
-            {
                 "message": "Generated version entry v1.0.0 for extension williangalvani.virtualhere",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.0.4 for extension williangalvani.virtualhere",
+                "message": "Generated version entry v1.0.3 for extension williangalvani.virtualhere",
                 "status": "INFO"
             },
             {
                 "message": "Generated version entry v1.0.5 for extension williangalvani.virtualhere",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.0.4 for extension williangalvani.virtualhere",
                 "status": "INFO"
             },
             {
@@ -1400,14 +1396,6 @@
                 "status": "ERROR"
             },
             {
-                "message": "Generated version entry v1.0.1 for extension williangalvani.zerotier",
-                "status": "INFO"
-            },
-            {
-                "message": "Generated version entry v1.12.1 for extension williangalvani.zerotier",
-                "status": "INFO"
-            },
-            {
                 "message": "Generated version entry v1.0.0 for extension williangalvani.zerotier",
                 "status": "INFO"
             },
@@ -1416,11 +1404,11 @@
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.14.2 for extension williangalvani.zerotier",
+                "message": "Generated version entry v1.12.1 for extension williangalvani.zerotier",
                 "status": "INFO"
             },
             {
-                "message": "Generated version entry v1.14.0 for extension williangalvani.zerotier",
+                "message": "Generated version entry v1.0.1 for extension williangalvani.zerotier",
                 "status": "INFO"
             },
             {
@@ -1430,13 +1418,21 @@
             {
                 "message": "Generated version entry v1.14.3 for extension williangalvani.zerotier",
                 "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.14.2 for extension williangalvani.zerotier",
+                "status": "INFO"
+            },
+            {
+                "message": "Generated version entry v1.14.0 for extension williangalvani.zerotier",
+                "status": "INFO"
             }
         ]
     },
     "final_docker_rate_limit": {
         "interval_seconds": 21600,
         "limit": 200,
-        "remaining": 76,
+        "remaining": 77,
         "source_ip": "4d3cd125-d212-4a99-a724-a2c128907363"
     },
     "start_docker_rate_limit": {
